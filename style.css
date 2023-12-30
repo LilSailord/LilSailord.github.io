@@ -16,9 +16,16 @@ body{
     font-size: 6rem;
     font-weight: 900;
     align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
 }
 .greetings > span{
     animation: glow 2.5s ease-in-out infinite;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
 }
 @keyframes glow{
     0%, 100%{
