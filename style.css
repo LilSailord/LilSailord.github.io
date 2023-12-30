@@ -16,7 +16,7 @@ body{
     font-size: 6rem;
     font-weight: 900;
     align-items: center;
-    justify-content: center;
+    text-align: center;
 }
 .greetings{
     font-size: 6rem;
